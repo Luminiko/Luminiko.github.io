@@ -1,2 +1,2 @@
-# Luminiko.githup.io
+# Luminiko.github.io
 Demo page
